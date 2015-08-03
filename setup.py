@@ -36,7 +36,7 @@ setup(
                       'Twisted>=12.3.0',
                       'PyYAML>=3.10',
                       'pyOpenSSL>=0.13',
-                      'doxypy>=0.4.2',
+                      'doxypy>=0.4.1',
                       'jsonschema',
                       'mock',
                       'txws',
